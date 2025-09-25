@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+venv/
+.venv/
+
+# Data & log
+data/*.json
+data/*.db
+data/*.log
+crawler/__pycache__/
+extractor/__pycache__/
+index/__pycache__/
+search/__pycache__/
+gui/__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db

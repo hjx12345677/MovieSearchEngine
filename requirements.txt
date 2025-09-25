@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+lxml
+jieba
+tk  # GUI 如用 PyQt 再自行补充
